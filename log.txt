@@ -1,0 +1,147 @@
+
+Level,Message
+Level,Message
+Level,Message
+Level,Message
+Level,Message
+Level,Message
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+INFO,Appel de CalculerTension
+INFO,CalculerTension - Resultat: 3538.500244, 951.000000
+INFO,Appel de CoupleMoteur
+INFO,CoupleMoteur - Resultat: 750.000000
+INFO,Appel de CoupleMoteur
+INFO,CoupleMoteur - Resultat: 776.283386
+INFO,Appel de PuissanceMoteur
+INFO,PuissanceMoteur - Resultat: 3750.000000
+INFO,Appel de RayonPoulie
+INFO,RayonPoulie - Resultat: 0.500000
+INFO,Appel de RayonPoulie
+INFO,RayonPoulie - Resultat: 0.300000
+INFO,Appel de VitesseRotation
+INFO,VitesseRotation - Resultat: 95.492966
+INFO,Appel de TempsMonteeAndDescente
+INFO,TempsMonteeAndDescente - Resultat: 10.000000
+INFO,Appel de Acceleration
+INFO,Acceleration - Resultat: 0.300000
+INFO,Appel de Acceleration
+INFO,Acceleration - Resultat: 0.299999
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+INFO,Appel de CalculerTension
+INFO,CalculerTension - Resultat: 3538.500244, 951.000000
+INFO,Appel de CoupleMoteur
+INFO,CoupleMoteur - Resultat: 750.000000
+INFO,Appel de CoupleMoteur
+INFO,CoupleMoteur - Resultat: 776.283386
+INFO,Appel de PuissanceMoteur
+INFO,PuissanceMoteur - Resultat: 3750.000000
+INFO,Appel de RayonPoulie
+INFO,RayonPoulie - Resultat: 0.500000
+INFO,Appel de RayonPoulie
+INFO,RayonPoulie - Resultat: 0.300000
+INFO,Appel de VitesseRotation
+INFO,VitesseRotation - Resultat: 95.492966
+INFO,Appel de TempsMonteeAndDescente
+INFO,TempsMonteeAndDescente - Resultat: 10.000000
+INFO,Appel de Acceleration
+INFO,Acceleration - Resultat: 0.300000
+INFO,Appel de Acceleration
+INFO,Acceleration - Resultat: 0.299999
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+INFO,Appel de CalculerTension
+INFO,CalculerTension - Resultat: 3538.500244, 951.000000
+INFO,Appel de CoupleMoteur
+INFO,CoupleMoteur - Resultat: 750.000000
+INFO,Appel de CoupleMoteur
+INFO,CoupleMoteur - Resultat: 776.283386
+INFO,Appel de PuissanceMoteur
+INFO,PuissanceMoteur - Resultat: 3750.000000
+INFO,Appel de RayonPoulie
+INFO,RayonPoulie - Resultat: 0.500000
+INFO,Appel de RayonPoulie
+INFO,RayonPoulie - Resultat: 0.300000
+INFO,Appel de VitesseRotation
+INFO,VitesseRotation - Resultat: 95.492966
+INFO,Appel de TempsMonteeAndDescente
+INFO,TempsMonteeAndDescente - Resultat: 10.000000
+INFO,Appel de Acceleration
+INFO,Acceleration - Resultat: 0.300000
+INFO,Appel de Acceleration
+INFO,Acceleration - Resultat: 0.299999
+INFO,Appel de CalculerTension
+INFO,CalculerTension - Resultat: 1561.000122, 1.000000
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
+Level,Message
+Level,Message
+INFO,Application demarree
